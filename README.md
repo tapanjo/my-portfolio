@@ -8,3 +8,7 @@ SSH
 HTML
 CSS
 Google Fonts
+React JS
+babel
+Chai
+Mocha
